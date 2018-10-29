@@ -1,0 +1,2 @@
+# myappl
+copy local
